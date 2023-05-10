@@ -2,7 +2,6 @@
 The code of paper "*LATTE: Label-efficient Incident Phenotyping from
 Longitudinal Electronic Health Records*"
 
-[toc]
 
 ## Dependencies
 
@@ -122,7 +121,7 @@ To generate your own simulation data, and then run scripts on generated data:
 ## Dataset
 
 ### Input Data -- Longitudinal
-
+---
 ##### Columns:  
 
 * ID: patient_num
@@ -137,7 +136,7 @@ The data of one specific patient at one specific time point. A vector, each dime
 
 
 ### Embeddings
-
+---
 * Each columns is the concept embeddings of $i_{th}$  medical entity ($e_i$ in **Concept Reweight module** in the paper). The column names are the index of covariates: names of medical concepts in EHRs in our paper)
 
 * **All the index names in input data $\in$ All the index names in embedding files**
@@ -145,7 +144,7 @@ The data of one specific patient at one specific time point. A vector, each dime
 
 
 ### Examples
-
+---
 Please see examples of input data, simulation data and embedding file at:
 
 ```shell
