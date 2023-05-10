@@ -2,7 +2,6 @@
 The code of paper "*LATTE: Label-efficient Incident Phenotyping from
 Longitudinal Electronic Health Records*"
 
-[toc]
 
 ## Dependencies
 
