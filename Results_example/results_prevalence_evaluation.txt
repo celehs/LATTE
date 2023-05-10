@@ -1,1 +1,1 @@
- Threshold value=0.5 AUC_train :1.000000 , ACC_train:1.000000, ,FPR:0.056180, FNR:0.000000, NPV_MLP:1.000000  ,AUC_test_comb:1.000000,  AUC_test_TF:0.997557, AUC_test_incident:1.000000,ACC_test:0.962963 , Speci:0.943820 ,Sensi:1.000000, PPV:0.901961
+ Threshold value=0.5 AUC_train :0.999367 , ACC_train:0.957812, ,FPR:0.000000, FNR:0.038462, NPV_MLP:0.976190  ,AUC_test_comb:1.000000,  AUC_test_TF:0.971623, AUC_test_incident:1.000000,ACC_test:0.985075 , Speci:1.000000 ,Sensi:0.961538, PPV:1.000000

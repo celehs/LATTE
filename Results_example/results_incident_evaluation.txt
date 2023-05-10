@@ -1,1 +1,1 @@
-Threshold value=0.5 AUC_train :0.992279 , NPV:1.000000 ,Specificity:0.629464, F1:0.934491 , PPV:0.877037 , Sensitvity:1.000000, AUC:0.996886
+Threshold value=0.5 AUC_train :0.997503 , NPV:0.994536 ,Specificity:0.883495, F1:0.982130 , PPV:0.966245 , Sensitvity:0.998547, AUC:0.998836
