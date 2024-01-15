@@ -1,6 +1,8 @@
 # README
 
-This repository contains the code and data for "LATTE: Label-efficient Incident Phenotyping from Longitudinal Electronic Health Records"
+This repository contains the code and data for "LATTE: Label-efficient Incident Phenotyping from Longitudinal Electronic Health Records" published in Patterns (Cell press) (https://doi.org/10.1016/j.patter.2023.100906)
+
+Contact: jun_wen@hms.harvar.edu    
 
 [toc]
 
